@@ -1,0 +1,11 @@
+AOR,CI,down,up,p_val,case_group,control_group,casecount,controlcount,blah
+,,,,,"Semaglutide vs Nicotine replacement therapy (n=1,792/cohort)",,,
+0.69,0.69 (0.63-0.75),0.63,0.75,,986 (55.0%),"1,129 (63.0%)",,"","Medical encounter for TUD diagnosis "
+0.64,0.64 (0.51-0.80),0.51,0.80,,126 (7.0%),182 (10.2%),,"","Smoking cessation counseling"
+0.16,0.16 (0.14-0.19),0.14,0.19,,222 (12.4%),956 (53.3%),,"","Nicotine replacement therapy"
+0.81,0.81 (0.68-0.97),0.68,0.97,,221 (12.3%),"252 (14.1%)",,"","Prescription of quit-smoking medications"
+,,,,,"Semaglutide vs Bupropion/Varenicline (n=1,327/cohort)",,,
+0.82,0.82 (0.74-0.90),0.74,0.90,,762 (57.4%),821 (61.9%),,"","Medical encounter for TUD diagnosis "
+0.71,0.71 (0.54-0.94),0.54,0.94,,89 (6.7%),119 (9.0%),,"","Smoking cessation counseling"
+0.63,0.63 (0.52-0.75),0.52,0.75,,182 (13.7%),271 (20.4%),,"","Nicotine replacement therapy"
+0.18,0.18 (0.15-0.21),0.15,0.21,,179 (13.5%),708 (53.4%),,"","Prescription of quit-smoking medications"

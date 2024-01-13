@@ -1,0 +1,2 @@
+probability, t2d, comparison
+TUD diagnosis, T2D, Bupropion/Naltrexone

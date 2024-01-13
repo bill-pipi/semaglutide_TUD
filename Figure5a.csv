@@ -1,0 +1,11 @@
+AOR,CI,down,up,p_val,case_group,control_group,casecount,controlcount,blah
+,,,,,"Semaglutide vs Bupropion/Naltrexone (n=1,185/cohort)",,,
+0.84,0.84 (0.58-1.21),0.58,1.21,,51 (4.3%),61 (5.1%),,"","Positive test for SARS-CoV2"
+0.94,0.94 (0.47-1.86),0.47,1.86,,16 (1.4%),17 (1.4%),,"","Nail disorders"
+1.02,1.02 (0.66-1.58),0.66,1.58,,41 (3.5%),40 (3.4%),,"","Injuries to the ankle and foot"
+0.88,0.88 (0.54-1.44),0.54,1.44,,30 (2.5%),"34 (2.9%)",,"","Injuries to the shoulder and upper arm"
+,,,,,"Semaglutide vs Phentermine/Topiramate (n=938/cohort)",,,
+1.03,1.03 (0.68-1.54),0.68,1.54,,47 (5.0%),46 (4.9%),,"","Positive test for SARS-CoV2"
+0.65,0.65 (0.28-1.49),0.28,1.49,,"<10 (<1.1%)",14 (1.5%),,"","Nail disorders"
+0.98,0.98 (0.63-1.53),0.63,1.53,,38 (4.1%),39 (4.2%),,"","Injuries to the ankle and foot"
+0.70,0.70 (0.41-1.19),0.41,1.19,,23 (2.5%),"33 (3.5%)",,"","Injuries to the shoulder and upper arm"
